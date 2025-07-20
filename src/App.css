@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fcefee;
+  color: #333;
+}
+
+.container {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  background-color: #fff0f5;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(180, 140, 140, 0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #d48c91;
+}
+
+.goal-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.goal-form input,
+.goal-form button {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #e0bebe;
+  font-size: 16px;
+}
+
+.goal-form button {
+  background-color: #f5b4c0;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.goal-form button:hover {
+  background-color: #e39cae;
+}
+
+.goal-list {
+  margin-top: 2rem;
+}
+
+.goal-card {
+  background-color: #fff6f6;
+  padding: 1rem;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  border-left: 6px solid #f3b0b0;
+  box-shadow: 0 2px 5px rgba(160, 120, 120, 0.1);
+}
+
+
+
+.delete-btn {
+  background-color: #ffcccc;
+  border: none;
+  padding: 8px 12px;
+  margin-top: 10px;
+  color: #800000;
+  cursor: pointer;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.delete-btn:hover {
+  background-color: #ff9999;
+}
