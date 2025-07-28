@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documents/development/phase-2/Smart-Goal-Planner"
+		},
+		{
+			"path": "../.vscode"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../src"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Smart-Goal-Planner",
+		"liveServer.settings.port": 5502
+	}
+}

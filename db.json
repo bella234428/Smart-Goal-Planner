@@ -1,3 +1,12 @@
 {
-  "goals": []
+  "goals": [
+    {
+      "id": "ec80",
+      "name": "weld;kofljikvn",
+      "amount": 1000,
+      "category": "qo2wejn",
+      "deadline": "2001-03-04",
+      "saved": 0
+    }
+  ]
 }
